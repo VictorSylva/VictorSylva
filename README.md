@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Mbasiti Victor Sylvanus 👋
 
-<!--
-**VictorSylva/VictorSylva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist & AI/ML Engineer
 
-Here are some ideas to get you started:
+I build practical systems with data, machine learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of **data science, AI engineering, software development and problem-solving**. I enjoy taking a real problem, investigating it with data, experimenting with possible solutions, and turning what I learn into something useful.
+
+I'm currently deepening my work in **AI agents, LLM applications, RAG, automation, machine learning, backend systems and intelligent products**.
+
+I also build and experiment with products of my own, including **InteracAi** and **Cosmoo**, where I apply technology to real business and everyday problems.
+
+> **Learn → Investigate → Build → Experiment → Improve**
